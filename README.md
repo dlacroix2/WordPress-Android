@@ -1,4 +1,4 @@
-Hello World 01
+Hello World 2
 # WordPress for Android #
 
 [![Build Status](https://travis-ci.org/wordpress-mobile/WordPress-Android.svg?branch=develop)](https://travis-ci.org/wordpress-mobile/WordPress-Android)
